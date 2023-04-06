@@ -1,7 +1,7 @@
 
 # Pedro Dias
 
-<img align="right" src="https://raw.githubusercontent.com/pedro-ddias/pedro-ddias/main/img/pc.png" width="380"/>
+<img align="right" src="https://raw.githubusercontent.com/pedro-ddias/pedro-ddias/main/img/pc.png" width="320"/>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedro-ddias)
 ](https://github.com/pedro-ddias)
